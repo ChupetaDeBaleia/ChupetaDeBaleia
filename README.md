@@ -1,7 +1,8 @@
 Boas vindas ao meu perfil 💙💙
-Meu nome é nome sobrenome
+meu nome e Cicero Gabriel
 
 Estou estudando na Alura
 Estou me desenvolvendo na linguagem JavaScript
 Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
-![](https://media1.tenor.com/m/by37VK-1V_sAAAAC/to-hot.gif)
+
+![](https://media1.tenor.com/m/HEt5-QsnaDkAAAAd/deadpool-wolverine.gif)
